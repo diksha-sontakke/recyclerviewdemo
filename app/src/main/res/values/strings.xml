@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+
+
+    <string-array name="movie_title">
+        <item>Spirited Away</item>
+        <item>Howls Moving Castle</item>
+        <item>Kikis Delivery Service</item>
+        <item>Arrietty of Borrowing </item>
+        <item>Spirited Away</item>
+        <item>Kikis Delivery Service</item>
+        <item>My Neighbor Totoro</item>
+
+    </string-array>
+</resources>
